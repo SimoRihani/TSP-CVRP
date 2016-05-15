@@ -1,5 +1,5 @@
 #!/bin/bash
-read -p 'Entrez le répertoire à tester (0 : toy_instances, 1 : instances): ' dir
+read -p 'Instances directory to test (0 : toy_instances, 1 : instances): ' dir
 
 filename="res"
 touch $filename
