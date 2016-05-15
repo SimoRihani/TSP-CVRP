@@ -15,6 +15,12 @@
 
 This project is written in Java. It implements heuristics for problems traveling salesman (TSP) and vehicle routing with stress capacity (PRCV).
 
+## Motivation
+
+This project is part of the *fourth year* of *computer science engineering* program at *Bordeaux Graduate School of Engineering*, also known as [ENSEIRB-MATMECA][].
+It is a mini project as part of the flood and combinatorial option (Flot et combinatoire *IF230*).
+
+
 ## Use
 
 
@@ -44,3 +50,5 @@ and follow the instructions.
 
 
 [Mohammed RIHANI]: http://mrihani.vvv.enseirb-matmeca.fr
+[ENSEIRB-MATMECA]: http://www.enseirb-matmeca.fr
+[Bordeaux-INP]: https://www.bordeaux-inp.fr/
