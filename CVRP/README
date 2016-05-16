@@ -1,8 +1,8 @@
                 ┌────────────────────────────────────────┐
-                │                TSP-CVRP                │
+                │                  CVRP                  │
                 ├────────────────────────────────────────┤
                 │                                        │
-                │Heuristiques pour le Routing/Semestre 8 │
+                │    Heuristics for Routing/Semestre 8   │
                 │              ENSEIRB-MATMECA           │
                 │          ~mbounakhla, ~mrihani         │
                 │                                        │
@@ -11,34 +11,33 @@
                             │ Description │
                             └─────────────┘
 
-Ce projet est écrit en Java. Il implémente des heuristisques pour les problèmes
-de voyageur de commerce (TSP) et de de tournées de véhicules avec contraintes
-de capacités (CVRP).
+This project is written in Java. It implements heuristics for the vehicle routing problem 
+with capacity constraints (CVRP).
 
 
-			                      │ Utilisation │
+			    │ Utilisation │
                             └─────────────┘
 
 ### MODE D'EMPLOI ###
 
 
-Il suffit d'exécuter (dans le repértoire principal CRVP/) la commande :
+Just run (in the directory CVRP/) command :
 
 ./test.sh
 
-et de suivre les instructions.
+and follow the instructions.
 
-Exp de commande d'execution pour l'application de l'heuristique 1 (ClarkeWright)
-sur l'instance CVRP_Instances_Augerat/A-n32-k5.vrp :
+Exp of execution order for the application of heuristic 1 (ClarkeWright)
+the instance CVRP_Instances_Augerat/A-n32-k5.vrp :
 
 ./test.sh
 1
 ../CVRP_Instances_Augerat/A-n32-k5.vrp
 
-> Pour générer un fichier src/res contenant les résultats des deux heuristiques (ClarkeWright
-& GiantTour) sur les instances de CVRP_Instances_Augerat/, il suffit d'exécuter (dans le
-répertoire src/) :
+
+> To generate a file `res` containing the results of the two heuristics (ClarkeWright
+& GiantTour) on the instances of CVRP_Instances_Augerat/, just run (in the src/ directory) :
 
 ./tests
 
-et de suivre les instructions.
+and follow the instructions.
