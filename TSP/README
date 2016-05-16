@@ -1,43 +1,43 @@
-		                ┌────────────────────────────────────────┐
-		                │                   TSP                  │
-		                ├────────────────────────────────────────┤
-		                │                                        │
-		                │    Heuristics for Routing/Semestre 8   │
-		                │              ENSEIRB-MATMECA           │
-		                │          ~mbounakhla, ~mrihani         │
-		                │                                        │
-		                └────────────────────────────────────────┘
-		
-		                            │ Description │
-		                            └─────────────┘
-		
-		This project is written in Java. It implements heuristics for the traveling salesman 
-		problem (TSP).
-		
-		
-					    │ Utilisation │
-		                            └─────────────┘
-		
-		### MODE D'EMPLOI ###
-		
-		
-		Just run (in the directory / TSP) command :
-		
-		./test.sh
-		
-		and follow the instructions.
-		
-		Exp of execution order for the application of heuristic 1 (Farthest insertion)
-		the instance ../data/instances/a280.tsp :
-		
-		./test.sh
-		1
-		../data/instances/a280.tsp
-		
-		> To generate a file `res` containing the results of the two heuristics (Farthest Insertion
-		& Arc insertion) on the instances of toy_instances/ or intances/, just run (in the
-		src/ directory) :
-		
-		./tests
-		
-		and follow the instructions.
+                ┌────────────────────────────────────────┐
+                │                   TSP                  │
+                ├────────────────────────────────────────┤
+                │                                        │
+                │    Heuristics for Routing/Semestre 8   │
+                │              ENSEIRB-MATMECA           │
+                │          ~mbounakhla, ~mrihani         │
+                │                                        │
+                └────────────────────────────────────────┘
+
+                            │ Description │
+                            └─────────────┘
+
+This project is written in Java. It implements heuristics for the traveling salesman 
+problem (TSP).
+
+
+			    │ Utilisation │
+                            └─────────────┘
+
+### MODE D'EMPLOI ###
+
+
+Just run (in the directory TSP/) command :
+
+./test.sh
+
+and follow the instructions.
+
+Exp of execution order for the application of heuristic 1 (Farthest insertion)
+the instance ../data/instances/a280.tsp :
+
+./test.sh
+1
+../data/instances/a280.tsp
+
+
+> To generate a file `res` containing the results of the two heuristics ((Farthest Insertion
+& Arc insertion) on the instances of toy_instances/ or intances/, just run (in the src/ directory) :
+
+./tests
+
+and follow the instructions.
