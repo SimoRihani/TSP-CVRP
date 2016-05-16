@@ -13,7 +13,7 @@
 
 ## Description
 
-This project is written in Java. It implements heuristics for problems traveling salesman (TSP) and vehicle routing with stress capacity (PRCV).
+This project is written in Java. It implements heuristics for problems traveling salesman (*TSP*) and vehicle routing with capacity constraints. (*CVRP*).
 
 ## Motivation
 
