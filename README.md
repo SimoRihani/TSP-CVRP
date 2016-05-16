@@ -25,6 +25,10 @@ It is a mini project as part of the flood and combinatorial option (Flot et comb
 
 See README in TSP/ and CVRP/ to use the heuristics implemented.
 
+## Useful links
+
+- Repport : http://mrihani.vvv.enseirb-matmeca.fr/donnee/TSP_CVRP_Rapport.pdf
+
 ## Contributors
 
 - Mehdi BOUNAKHLA - Mehdi.Bounakhla@enseirb-matmeca.fr
