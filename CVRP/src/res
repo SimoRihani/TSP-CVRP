@@ -4,372 +4,520 @@
 
 ../CVRP_Instances_Augerat//A-n32-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 3[0m
+834.0
 
 
 ../CVRP_Instances_Augerat//A-n33-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 3[0m
+693.0
 
 
 ../CVRP_Instances_Augerat//A-n33-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 3[0m
+745.0
 
 
 ../CVRP_Instances_Augerat//A-n34-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+799.0
 
 
 ../CVRP_Instances_Augerat//A-n36-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+829.0
 
 
 ../CVRP_Instances_Augerat//A-n37-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 4[0m
+702.0
 
 
 ../CVRP_Instances_Augerat//A-n37-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 4[0m
+1016.0
 
 
 ../CVRP_Instances_Augerat//A-n38-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 4[0m
+780.0
 
 
 ../CVRP_Instances_Augerat//A-n39-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+907.0
 
 
 ../CVRP_Instances_Augerat//A-n39-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 4[0m
+846.0
 
 
 ../CVRP_Instances_Augerat//A-n44-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 5[0m
+980.0
 
 
 ../CVRP_Instances_Augerat//A-n45-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+1012.0
 
 
 ../CVRP_Instances_Augerat//A-n45-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+1210.0
 
 
 ../CVRP_Instances_Augerat//A-n46-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+938.0
 
 
 ../CVRP_Instances_Augerat//A-n48-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 6[0m
+1122.0
 
 
 ../CVRP_Instances_Augerat//A-n53-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 8
+[31m TIME : 7[0m
+1136.0
 
 
 ../CVRP_Instances_Augerat//A-n54-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 7[0m
+1199.0
 
 
 ../CVRP_Instances_Augerat//A-n55-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 7[0m
+1133.0
 
 
 ../CVRP_Instances_Augerat//A-n60-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 8[0m
+1414.0
 
 
 ../CVRP_Instances_Augerat//A-n61-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 8[0m
+1129.0
 
 
 ../CVRP_Instances_Augerat//A-n62-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 8
+[31m TIME : 9[0m
+1341.0
 
 
 ../CVRP_Instances_Augerat//A-n63-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 9[0m
+1350.0
 
 
 ../CVRP_Instances_Augerat//A-n63-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 8[0m
+1694.0
 
 
 ../CVRP_Instances_Augerat//A-n64-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 9[0m
+1458.0
 
 
 ../CVRP_Instances_Augerat//A-n65-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 9[0m
+1272.0
 
 
 ../CVRP_Instances_Augerat//A-n69-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 11[0m
+1213.0
 
 
 ../CVRP_Instances_Augerat//A-n80-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 14[0m
+1882.0
 
 
 ../CVRP_Instances_Augerat//B-n31-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 3[0m
+674.0
 
 
 ../CVRP_Instances_Augerat//B-n34-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+806.0
 
 
 ../CVRP_Instances_Augerat//B-n35-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 4[0m
+1046.0
 
 
 ../CVRP_Instances_Augerat//B-n38-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 4[0m
+832.0
 
 
 ../CVRP_Instances_Augerat//B-n39-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+564.0
 
 
 ../CVRP_Instances_Augerat//B-n41-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+901.0
 
 
 ../CVRP_Instances_Augerat//B-n43-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 5[0m
+758.0
 
 
 ../CVRP_Instances_Augerat//B-n44-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 4[0m
+952.0
 
 
 ../CVRP_Instances_Augerat//B-n45-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 5[0m
+770.0
 
 
 ../CVRP_Instances_Augerat//B-n45-k6.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 4[0m
+728.0
 
 
 ../CVRP_Instances_Augerat//B-n50-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+745.0
 
 
 ../CVRP_Instances_Augerat//B-n50-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 8
+[31m TIME : 5[0m
+1377.0
 
 
 ../CVRP_Instances_Augerat//B-n51-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 6[0m
+1187.0
 
 
 ../CVRP_Instances_Augerat//B-n52-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 6[0m
+772.0
 
 
 ../CVRP_Instances_Augerat//B-n56-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 6[0m
+730.0
 
 
 ../CVRP_Instances_Augerat//B-n57-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 8
+[31m TIME : 7[0m
+1242.0
 
 
 ../CVRP_Instances_Augerat//B-n57-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 8[0m
+1661.0
 
 
 ../CVRP_Instances_Augerat//B-n63-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 9[0m
+1605.0
 
 
 ../CVRP_Instances_Augerat//B-n64-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 9[0m
+921.0
 
 
 ../CVRP_Instances_Augerat//B-n66-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 9[0m
+1406.0
 
 
 ../CVRP_Instances_Augerat//B-n67-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 11
+[31m TIME : 9[0m
+1097.0
 
 
 ../CVRP_Instances_Augerat//B-n68-k9.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 11[0m
+1319.0
 
 
 ../CVRP_Instances_Augerat//B-n78-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 13[0m
+1269.0
 
 
 ../CVRP_Instances_Augerat//P-n101-k4.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 4
+[31m TIME : 21[0m
+747.0
 
 
 ../CVRP_Instances_Augerat//P-n16-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 2[0m
+482.0
 
 
 ../CVRP_Instances_Augerat//P-n19-k2.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 2
+[31m TIME : 2[0m
+237.0
 
 
 ../CVRP_Instances_Augerat//P-n20-k2.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 2
+[31m TIME : 2[0m
+249.0
 
 
 ../CVRP_Instances_Augerat//P-n21-k2.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 2
+[31m TIME : 2[0m
+249.0
 
 
 ../CVRP_Instances_Augerat//P-n22-k2.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 2
+[31m TIME : 3[0m
+253.0
 
 
 ../CVRP_Instances_Augerat//P-n22-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 2[0m
+590.0
 
 
 ../CVRP_Instances_Augerat//P-n23-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 3[0m
+563.0
 
 
 ../CVRP_Instances_Augerat//P-n40-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 4[0m
+521.0
 
 
 ../CVRP_Instances_Augerat//P-n45-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 5[0m
+571.0
 
 
 ../CVRP_Instances_Augerat//P-n50-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 11
+[31m TIME : 6[0m
+747.0
 
 
 ../CVRP_Instances_Augerat//P-n50-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 5[0m
+585.0
 
 
 ../CVRP_Instances_Augerat//P-n50-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 9
+[31m TIME : 6[0m
+647.0
 
 
 ../CVRP_Instances_Augerat//P-n51-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 11
+[31m TIME : 6[0m
+789.0
 
 
 ../CVRP_Instances_Augerat//P-n55-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 7[0m
+731.0
 
 
 ../CVRP_Instances_Augerat//P-n55-k15.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 17
+[31m TIME : 6[0m
+996.0
 
 
 ../CVRP_Instances_Augerat//P-n55-k7.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 7[0m
+618.0
 
 
 ../CVRP_Instances_Augerat//P-n55-k8.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 7
+[31m TIME : 6[0m
+630.0
 
 
 ../CVRP_Instances_Augerat//P-n60-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 11
+[31m TIME : 8[0m
+792.0
 
 
 ../CVRP_Instances_Augerat//P-n60-k15.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 16
+[31m TIME : 8[0m
+1015.0
 
 
 ../CVRP_Instances_Augerat//P-n65-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 10
+[31m TIME : 10[0m
+840.0
 
 
 ../CVRP_Instances_Augerat//P-n70-k10.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 11
+[31m TIME : 10[0m
+881.0
 
 
 ../CVRP_Instances_Augerat//P-n76-k4.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 5
+[31m TIME : 15[0m
+651.0
 
 
 ../CVRP_Instances_Augerat//P-n76-k5.vrp
 
-Heuristic Clarke and Wright : 0.0
+Heuristic Clarke and Wright : Number of rounds : 6
+[31m TIME : 13[0m
+697.0
 
 
 
@@ -378,273 +526,445 @@ Heuristic Clarke and Wright : 0.0
 
 ../CVRP_Instances_Augerat//A-n32-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n33-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n33-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n34-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n36-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n37-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n37-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n38-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n39-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n39-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n44-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n45-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n45-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n46-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n48-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 1[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n53-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n54-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n55-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n60-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n61-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n62-k8.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n63-k10.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n63-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n64-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n65-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n69-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//A-n80-k10.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n31-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n34-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n35-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n38-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n39-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n41-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n43-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n44-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n45-k5.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n45-k6.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n50-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n50-k8.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n51-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n52-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n56-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n57-k7.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n57-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n63-k10.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n64-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n66-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n67-k10.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n68-k9.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//B-n78-k10.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//P-n101-k4.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//P-n16-k8.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//P-n19-k2.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//P-n20-k2.vrp
 
-Heuristic Giant tour : 0.0
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
 
 
 ../CVRP_Instances_Augerat//P-n21-k2.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n22-k2.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n22-k8.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n23-k8.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n40-k5.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n45-k5.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n50-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n50-k7.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n50-k8.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n51-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n55-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n55-k15.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n55-k7.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n55-k8.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n60-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n60-k15.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n65-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n70-k10.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n76-k4.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
+
+../CVRP_Instances_Augerat//P-n76-k5.vrp
+
+Heuristic Giant tour : [31m TIME : 0[0m
+0.0
+
 
