@@ -45,8 +45,10 @@ public class VRPinstance {
 		double x[] = new double[size];
 		double y[] = new double[size];
 
+		scan.next();
+
 		for (int i = 0; i < size; i++) {
-			scan.next();
+			scan.nextInt();
 			x[i] = scan.nextInt();
 			y[i] = scan.nextInt();
 		}
