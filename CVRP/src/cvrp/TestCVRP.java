@@ -63,7 +63,11 @@ public class TestCVRP {
     	} catch (java.io.FileNotFoundException e) {
     	    System.out.println("File not found... Strange.");
     	}
+      long start = System.currentTimeMillis();
     	value = h.computeSolution(data.getMatrix(), data.getDemands(), data.getCapacity(), soluce);
+      long stop = System.currentTimeMillis();
+			long duration = stop - start;
+			System.out.println("\033[31m TIME : " + duration + "\033[0m");
       System.out.println(value);
     	return value;
     }
