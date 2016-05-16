@@ -1,0 +1,44 @@
+                ┌────────────────────────────────────────┐
+                │                TSP-CVRP                │
+                ├────────────────────────────────────────┤
+                │                                        │
+                │Heuristiques pour le Routing/Semestre 8 │
+                │              ENSEIRB-MATMECA           │
+                │          ~mbounakhla, ~mrihani         │
+                │                                        │
+                └────────────────────────────────────────┘
+
+                            │ Description │
+                            └─────────────┘
+
+Ce projet est écrit en Java. Il implémente des heuristisques pour les problèmes
+de voyageur de commerce (TSP) et de de tournées de véhicules avec contraintes
+de capacités (CVRP).
+
+
+			                      │ Utilisation │
+                            └─────────────┘
+
+### MODE D'EMPLOI ###
+
+
+Il suffit d'exécuter (dans le repértoire principal BOUNAKHLA-RIHANI/) la commande :
+
+./test.sh
+
+et de suivre les instructions.
+
+Exp de commande d'execution pour l'application de l'heuristique 1 (Farthest insertion)
+sur l'instance ../data/instances/a280.tsp :
+
+./test.sh
+1
+../data/instances/a280.tsp
+
+> Pour générer un fichier src/res contenant les résultats des deux heuristiques (Farthest insertion
+& Arc insertion) sur les instances de toy_instances/ ou instances/, il suffit d'exécuter (dans le
+répertoire src/) :
+
+./tests
+
+et de suivre les instructions.

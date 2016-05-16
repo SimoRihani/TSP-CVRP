@@ -1,0 +1,116 @@
+
+
+	[4mFarthest insertion heuristic (h1)[0m
+
+../data/toy_instances/toy02.tsp
+
+Solution : [1, 0, 1]
+Heuristic insertion : 200.0 on average
+
+
+../data/toy_instances/toy03.tsp
+
+Solution : [2, 1, 0, 2]
+Heuristic insertion : 341.4213562373095 on average
+
+
+../data/toy_instances/toy04.tsp
+
+Solution : [3, 2, 1, 0, 3]
+Heuristic insertion : 400.0 on average
+
+
+../data/toy_instances/toy05.tsp
+
+Solution : [3, 2, 4, 1, 0, 3]
+Heuristic insertion : 406.6670702264066 on average
+
+
+../data/toy_instances/toy06.tsp
+
+Solution : [3, 5, 2, 4, 1, 0, 3]
+Heuristic insertion : 559.4680840555807 on average
+
+
+../data/toy_instances/toy07.tsp
+
+Solution : [3, 6, 5, 2, 4, 1, 0, 3]
+Heuristic insertion : 599.0138313078465 on average
+
+
+../data/toy_instances/toy08.tsp
+
+Solution : [3, 6, 5, 2, 7, 4, 1, 0, 3]
+Heuristic insertion : 1011.7344846383018 on average
+
+
+../data/toy_instances/toy09.tsp
+
+Solution : [3, 6, 5, 2, 7, 4, 1, 8, 0, 3]
+Heuristic insertion : 1062.0734405199603 on average
+
+
+../data/toy_instances/toy10.tsp
+
+Solution : [3, 6, 5, 9, 2, 7, 4, 1, 8, 0, 3]
+Heuristic insertion : 1099.8028020517884 on average
+
+
+
+
+	[4mArc insertion heuristic (h2)[0m
+
+../data/toy_instances/toy02.tsp
+
+( 1 0)
+Heuristic decreasing arcs : 200.0 on average
+
+
+../data/toy_instances/toy03.tsp
+
+( 1 2 0)
+Heuristic decreasing arcs : 341.4213562373095 on average
+
+
+../data/toy_instances/toy04.tsp
+
+( 1 2 3 0)
+Heuristic decreasing arcs : 400.0 on average
+
+
+../data/toy_instances/toy05.tsp
+
+( 1 4 3 0 2)
+Heuristic decreasing arcs : 406.6670702264067 on average
+
+
+../data/toy_instances/toy06.tsp
+
+( 1 4 3 5 2 0)
+Heuristic decreasing arcs : 651.7274490700213 on average
+
+
+../data/toy_instances/toy07.tsp
+
+( 3 4 0 5 2 6 1)
+Heuristic decreasing arcs : 750.8209806282463 on average
+
+
+../data/toy_instances/toy08.tsp
+
+( 3 4 0 5 2 6 7 1)
+Heuristic decreasing arcs : 1137.1732650646668 on average
+
+
+../data/toy_instances/toy09.tsp
+
+( 5 4 3 0 8 6 7 1 2)
+Heuristic decreasing arcs : 1239.4279443085265 on average
+
+
+../data/toy_instances/toy10.tsp
+
+( 3 4 0 5 8 6 7 1 9 2)
+Heuristic decreasing arcs : 1225.0596488402941 on average
+
+
